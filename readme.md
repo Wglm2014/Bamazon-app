@@ -13,7 +13,7 @@ I a Node.js terminal app that connects to a Mysqlsql database named **BAMAZON** 
 * If the User enters an Id that does not exist the app will show a message telling the user the product does not exist
 * Finally after each complete operation the user is ask to continue shoping or exit the app!
 
-## About the files In the directory
+### About the files In the directory
 If a person wants to download the files in the container can settup the app following this steps:
 
 1. Open Mysql and create the user _bamazon_ with password _bamazon_ or change the user name and password settup in bamazon-store.js to one existing.
