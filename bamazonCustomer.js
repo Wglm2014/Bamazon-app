@@ -1,5 +1,3 @@
-//requiere for access of files
-const fs = require("fs");
 //requiere for mysql DB actions 
 const mysql = require("mysql");
 //requiere to prompt questions to the user

@@ -5,7 +5,7 @@ I a Node.js terminal app that connects to a Mysqlsql database named **BAMAZON** 
 
 ### Steps how to use the Bamazon-Store-app
 * Open the directory where the app is store.
-* Run the app using the command `node bamazon-store`
+* Run the app using the command `node bamazonCustomer`
 * The app will display a list of all the products store on the table
 * The app will ask for the id of the product to buy and the amount
 * If the amount of the product is more than the stock in records, a message will be shown telling that there is no enough in stock
