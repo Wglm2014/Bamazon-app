@@ -1,5 +1,5 @@
 # Bamazon Store App
-I a Node.js terminal app that connects to a Mysqlsql database named **BAMAZON** with one table named **Products** that contains ten records about a variaraty of products belongin to different departments of simulated online store. For a faster way on how the app works you can click on the image to see a Youtube video where the app is being use.
+Is a Node.js terminal app that connects to a Mysqlsql database named **BAMAZON** with one table named **Products** that contains ten records about a variaraty of products belongin to different departments of simulated online store. For a faster way on how the app works you can click on the image to see a Youtube video where the app is being use.
 
 [![Bamazon Video](https://i9.ytimg.com/vi/onLi6L6d_vU/mq2.jpg?sqp=CPvn3O0F&rs=AOn4CLAPlRy9X-tJcK4AfR78m0i9-F8avw)](https://youtu.be/onLi6L6d_vU)
 
